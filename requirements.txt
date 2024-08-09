@@ -1,7 +1,7 @@
 edgegrid-python==1.2.1
 requests==2.31.0
 prettytable==0.7.2
-cryptography==39.0.1
+cryptography==42.0.4
 pyyaml==5.4
 xlsxwriter==1.2.8
 urllib3==1.26.19
